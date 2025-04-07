@@ -1,0 +1,33 @@
+# Node modules directory
+/node_modules/
+
+# Build output directories
+/dist/
+/build/
+
+# TypeScript declaration files (for compiled TypeScript)
+*.d.ts
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# IDE/Editor configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Package lock files (if you don't want to track them)
+package-lock.json
+yarn.lock
+
+# TypeScript related
+tsconfig.tsbuildinfo  # Incremental build files from TypeScript
+
